@@ -182,6 +182,34 @@
       "price":7000
    },
    {
+      "date":"2022.5.9",
+      "inOut":"in",
+      "type":"",
+      "item":"아르바이트",
+      "price":60000
+   },
+   {
+      "date":"2022.5.9",
+      "inOut":"out",
+      "type":"mart",
+      "item":"사탕",
+      "price":3000
+   },
+   {
+      "date":"2022.5.9",
+      "inOut":"out",
+      "type":"eatout",
+      "item":"갈비찜",
+      "price":25000
+   },
+   {
+      "date":"2022.5.9",
+      "inOut":"out",
+      "type":"oiling",
+      "item":"주유",
+      "price":80000
+   },
+   {
       "date":"2022.5.10",
       "inOut":"out",
       "type":"mart",
@@ -226,7 +254,7 @@
    {
       "date":"2022.5.13",
       "inOut":"out",
-      "type":"oiling",
+      "type":"eatout",
       "item":"맥도날드",
       "price":7000
    },
